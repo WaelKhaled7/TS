@@ -1,5 +1,5 @@
-telebot
+telethon
+yt-dlp
+instaloader
+facebook_scraper
 requests
-deep-translator
-beautifulsoup4
-pytube
